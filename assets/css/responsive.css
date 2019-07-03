@@ -1,0 +1,584 @@
+/* =========== Xtra Small Device Media Start ============= */
+
+@media (max-width:575.98px) {
+
+    header {
+        padding-top: 20px;
+        padding-bottom: 0;
+        text-align: center;
+    }
+
+    .site-logo {
+        padding-bottom: 10px;
+    }
+
+    .s-left-dt-content h5 {
+        font-size: 13px;
+        padding-bottom: 5px;
+    }
+
+    .s-left-dt-content p {
+        padding-bottom: 10px;
+        border-bottom:0;
+    }
+
+    .site-menu ul li {
+        margin-right: 11px;
+    }
+
+    .site-menu ul li a {
+        font-size: 10px;
+    }
+
+    #banner {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .banner-text h1 {
+        font-size: 24px;
+    }
+
+    .banner-text p {
+        font-size: 13px;
+        padding-bottom: 30px;
+    }
+
+    .banner-text input {
+        font-size: 14px;
+        padding: 20px 15px;
+    }
+
+    .banner-text .input-item button {
+        right: 6px;
+        font-size: 15px;
+    }
+
+    .banner-btn {
+        margin-top: 45px;
+    }
+
+    .banner-btn a {
+        font-size: 14px;
+        padding: 10px 25px;
+    }
+
+    .banner-person {
+        display: none;
+    }
+
+    #product {
+        margin-top: 60px;
+        padding-bottom: 30px;
+    }
+
+    .product-item {
+        margin-bottom: 30px;
+    }
+
+    .footer-item h4 {
+        padding-bottom: 0;
+    }
+
+    .mobile-foot {
+        padding-top: 30px;
+    }
+
+    #product-details {
+        padding-top: 15px;
+    }
+
+    .page-path {
+        padding-left: 18px;
+        padding-bottom: 15px;
+    }
+
+    .product-details-desp h2 {
+        font-size: 23px;
+        padding-bottom: 14px;
+        line-height: 35px;
+        padding-top: 20px;
+    }
+
+    .features {
+        margin-bottom: 5px;
+    }
+
+    .features li {
+        margin-bottom: 10px;
+    }
+
+    .price-box h6 span {
+        font-size: 27px;
+    }
+
+    .price-box h6 {
+        font-size: 16px;
+    }
+
+    .price-box p {
+        font-size: 14px;
+    }
+
+    .bottom-features li:first-child::before {
+        display: none;
+    }
+
+    .bottom-features li {
+        font-size: 15px;
+        margin-right: 0px;
+        display:block;
+    }
+
+    .product-details-btn li {
+        display:block;
+    }
+
+    .product-details-btn li a {
+        margin-top: 10px;
+        display: inline-block;
+    }
+
+    .middle-text {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .product-details-brand {
+        padding-top: 40px;
+    }
+
+    .product-details-item h6 {
+        font-size: 18px;
+        padding-top: 30px;
+    }
+
+    .item-end ul li {
+        display:block;
+    }
+
+    .item-end ul li span {
+        padding-bottom: 15px;
+    }
+
+    #pro-de-grid {
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+
+    .grid-item {
+        margin-bottom: 30px;
+    }
+
+    #product2 {
+        padding-top: 10px;
+        padding-bottom: 40px;
+    }
+
+    .grid-top h2 {
+        padding-bottom: 10px;
+    }
+
+    @media(min-width:480px) and (max-width: 575.98px) {
+        .site-menu ul li {
+            margin-right: 15px;
+            margin-top: 15px;
+        }
+
+        .site-menu ul li a {
+            font-size: 12px;
+        }
+    }
+
+}
+
+/* =========== Xtra Small Device Media End ============= */
+
+/* =========== Small Device Media Start ============= */
+
+@media (min-width:576px) and (max-width:767.98px) {
+
+    header {
+        padding-top: 20px;
+        padding-bottom: 0;
+        text-align: center;
+    }
+
+    .site-logo {
+        padding-bottom: 10px;
+    }
+
+    .s-left-dt-content h5 {
+        font-size: 13px;
+        padding-bottom: 5px;
+    }
+
+    .s-left-dt-content p {
+        padding-bottom: 10px;
+        border-bottom:0;
+    }
+
+    .search-bar {
+        position: relative;
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .site-menu ul li {
+        margin-right: 15px;
+    }
+
+    .site-menu ul li a {
+        font-size: 12px;
+    }
+
+    #banner {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .banner-text h1 {
+        font-size: 24px;
+    }
+
+    .banner-text p {
+        font-size: 13px;
+        padding-bottom: 30px;
+    }
+
+    .banner-text input {
+        font-size: 14px;
+        padding: 20px 15px;
+    }
+
+    .banner-text .input-item button {
+        right: 6px;
+        font-size: 15px;
+    }
+
+    .banner-btn {
+        margin-top: 45px;
+    }
+
+    .banner-btn a {
+        font-size: 14px;
+        padding: 10px 25px;
+    }
+
+    .banner-person {
+        display: none;
+    }
+
+    #product {
+        margin-top: 60px;
+        padding-bottom: 30px;
+    }
+
+    .product-item {
+        margin-bottom: 30px;
+    }
+
+    .footer-item h4 {
+        padding-bottom: 0;
+    }
+
+    .mobile-foot {
+        padding-top: 30px;
+    }
+
+    #product-details {
+        padding-top: 15px;
+    }
+
+    .page-path {
+        padding-left: 18px;
+        padding-bottom: 15px;
+    }
+
+    .product-details-desp h2 {
+        font-size: 23px;
+        padding-bottom: 14px;
+        line-height: 35px;
+        padding-top: 20px;
+    }
+
+    .features {
+        margin-bottom: 5px;
+    }
+
+    .features li {
+        margin-bottom: 10px;
+    }
+
+    .price-box h6 span {
+        font-size: 27px;
+    }
+
+    .price-box h6 {
+        font-size: 16px;
+    }
+
+    .price-box p {
+        font-size: 14px;
+    }
+
+    .bottom-features li:first-child::before {
+        display: none;
+    }
+
+    .bottom-features li {
+        font-size: 15px;
+        margin-right: 0px;
+        display:block;
+    }
+
+    .product-details-btn li a {
+        margin-top: 10px;
+        display: inline-block;
+    }
+
+    .middle-text {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .product-details-brand {
+        padding-top: 40px;
+    }
+
+    .product-details-item h6 {
+        font-size: 18px;
+        padding-top: 30px;
+    }
+
+    .item-end ul li {
+        display:block;
+    }
+
+    .item-end ul li span {
+        padding-bottom: 15px;
+    }
+
+    #pro-de-grid {
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+
+    .grid-item {
+        margin-bottom: 30px;
+    }
+
+    #product2 {
+        padding-top: 10px;
+        padding-bottom: 40px;
+    }
+
+    .grid-top h2 {
+        padding-bottom: 10px;
+    }
+
+}
+
+/* =========== Small Device Media End ============= */
+
+/* =========== Medium Device Media Start ============= */
+
+@media (min-width:768px) and (max-width:991.98px) {
+    header {
+        padding-top: 20px;
+        padding-bottom: 0;
+        text-align: center;
+    }
+
+    .site-logo {
+        padding-bottom: 10px;
+    }
+
+    .s-left-dt-content h5 {
+        font-size: 13px;
+        padding-bottom: 5px;
+    }
+
+    .s-left-dt-content p {
+        padding-bottom: 10px;
+        border-bottom:0;
+    }
+
+    .search-bar {
+        position: relative;
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .site-menu ul li {
+        margin-right: 15px;
+    }
+
+    .site-menu ul li a {
+        font-size: 12px;
+    }
+
+    #banner {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .banner-text h1 {
+        font-size: 24px;
+    }
+
+    .banner-text p {
+        font-size: 13px;
+        padding-bottom: 30px;
+    }
+
+    .banner-text input {
+        font-size: 14px;
+        padding: 20px 15px;
+    }
+
+    .banner-text .input-item button {
+        right: 6px;
+        font-size: 15px;
+    }
+
+    .banner-btn {
+        margin-top: 45px;
+    }
+
+    .banner-btn a {
+        font-size: 14px;
+        padding: 10px 25px;
+    }
+
+    .banner-person {
+        display: none;
+    }
+
+    #product {
+        margin-top: 80px;
+        padding-bottom: 50px;
+    }
+
+    .product-item {
+        margin-bottom:30px;
+    }
+
+    .footer-item h4 {
+        font-size: 14px;
+        padding-bottom:0;
+    }
+
+    .footer-item ul li a {
+        font-size: 10px;
+        padding-top: 12px;
+    }
+
+    .product-details-desp h2 {
+        font-size: 28px;
+        padding-bottom: 19px;
+    }
+
+    .bottom-features li:first-child:before {
+        display:none;
+    }
+
+    .product-details-btn li:first-child {
+        margin-right:15px;
+    }
+
+    .product-details-btn li a {
+        margin-top: 10px;
+        display: inline-block;
+    }
+
+    .product-details-btn li a {
+        padding: 10px 19px;
+    }
+
+    .product-details-item {
+        padding: 20px;
+    }
+
+    .brand-logo {
+        width: 100px;
+    }
+
+    .item-end ul li span {
+        font-size: 18px;
+        padding-right: 5px;
+    }
+
+    .item-end ul li a {
+        font-size: 12px;
+        padding: 5px 15px;
+    }
+
+    .ghkgj {
+        margin-top:18px;
+    }
+
+    #pro-de-grid {
+        padding-top: 50px;
+        padding-bottom: 10px;
+    }
+
+    .grid-item {
+        margin-bottom:30px;
+    }
+
+    #product2 {
+        padding-top: 40px;
+        padding-bottom: 50px;
+    }
+
+    .grid-top h2 {
+        padding-bottom: 10px;
+    }
+
+}
+
+/* =========== Medium Device Media End ============= */
+
+/* =========== Large Device Media Start ============= */
+
+@media (min-width:992px) and (max-width:1199.98px) {
+    .site-menu ul li a {
+        font-size: 10px;
+    }
+
+    .site-menu ul li {
+        margin-right: 8px;
+    }
+
+    .banner-person {
+        display:none;
+    }
+
+    .ghkgj {
+        margin-top:12px;
+    }
+
+    .grid-item h6 {
+        font-size: 15px;
+    }
+
+    .grid-item .features li {
+        font-size: 11px;
+        margin-right: 0px;
+    }
+
+    .grid-item .features li img {
+        width:10px;
+    }
+
+    .grid-item a {
+        font-size: 12px;
+    }
+
+    .grid-top h2 {
+        padding-bottom: 10px;
+    }
+}
+
+/* =========== Large Device Media End ============= */
